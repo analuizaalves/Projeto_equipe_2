@@ -2,8 +2,8 @@
 export default function Home() {
   return (
     <>
-      <p>E gira, e gira, e gira minha Rainha</p>
+      <div><p>alteração:Ana Lu</p></div>
+      <div><p>Outra alteração: Sophia</p></div>
     </>
-  
   );
 }
